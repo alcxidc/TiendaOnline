@@ -32,3 +32,7 @@ function pintarProductos(productos) {
         section.appendChild(articulo);
     }
 }
+
+
+
+//login
